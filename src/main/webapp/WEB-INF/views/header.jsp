@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Locations in Inda
+                                        Locations in UK
                                     </a>
                                     <ul>
                                         <li>
