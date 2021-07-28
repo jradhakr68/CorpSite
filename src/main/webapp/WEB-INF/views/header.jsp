@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Locations in New York
+                                        Locations in Nevada
                                     </a>
                                     <ul>
                                         <li>
