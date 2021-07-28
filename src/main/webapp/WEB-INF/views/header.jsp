@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Locations
+                                        Locations in US
                                     </a>
                                     <ul>
                                         <li>
