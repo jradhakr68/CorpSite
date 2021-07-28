@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Locations in Calicut
+                                        Locations to US
                                     </a>
                                     <ul>
                                         <li>
