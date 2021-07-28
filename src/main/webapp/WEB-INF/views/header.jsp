@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Locations in Nevada
+                                        Locations in Calicut
                                     </a>
                                     <ul>
                                         <li>
