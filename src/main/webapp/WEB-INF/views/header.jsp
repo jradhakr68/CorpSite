@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Map Fix
+                                        Map Fix - 2
                                     </a>
                                     <ul>
                                         <li>
