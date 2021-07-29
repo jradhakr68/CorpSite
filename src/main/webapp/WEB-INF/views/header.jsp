@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Locations to A1
+                                        Locations to SC
                                     </a>
                                     <ul>
                                         <li>
