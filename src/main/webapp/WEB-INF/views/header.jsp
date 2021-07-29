@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Locations to India
+                                        Map
                                     </a>
                                     <ul>
                                         <li>
