@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Location
+                                        Map
                                     </a>
                                     <ul>
                                         <li>
