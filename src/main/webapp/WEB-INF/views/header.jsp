@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Locations to SC
+                                        Locations to India
                                     </a>
                                     <ul>
                                         <li>
